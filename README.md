@@ -8,6 +8,7 @@ LeetCode Problems' Solutions with C++
 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/15ThreeSum.cpp) | 中等 |
 | 16 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/16Closest3Sum.cpp) | 中等 |
 | 18 | [四数之和](https://leetcode-cn.com/problems/4sum/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/18FourSum.cpp) | 中等 |
+| 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/20ValidParentheses.cpp) | 简单 |
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/26RemoveDuplicates.cpp) | 简单 |
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/27RemoveElement.cpp) | 简单 |
 | 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/31NextPermutation.cpp) | 中等 |
@@ -15,6 +16,7 @@ LeetCode Problems' Solutions with C++
 | 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/35SearchInsertPos.cpp) | 简单 |
 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/54SpiralMatrix.cpp) | 中等 |
 | 59 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/59SpiralMatrix.cpp) | 中等 |
+| 71 | [简化路径](https://leetcode-cn.com/problems/simplify-path/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/71SimplifyPath.cpp) | 中等 |
 | 81 | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/81SearchRotatedArray.cpp) | 中等 |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/118PascalTriangle.cpp) | 简单 |
 | 119 | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/119PascalTriangle.cpp) | 简单 |
@@ -24,5 +26,9 @@ LeetCode Problems' Solutions with C++
 | 215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/215KthLargestElement.cpp) | 中等 |
 | 229 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/229MajorityElement.cpp) | 中等 |
 | 414 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/414ThirdLargestElement.cpp) | 简单 |
+| 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/496NextGreaterElement.cpp) | 简单 |
+| 503 | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/503NextGreaterElementII.cpp) | 中等 |
+| 556 | [下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/556NextGreaterElementIII.cpp) | 中等 |
+
 
 

@@ -5,6 +5,7 @@ LeetCode Problems' Solutions with C++
 | ------ | ------ | ------ | ------ |
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/1TwoSum.cpp) | 简单 |
 | 3 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/3LongestSubstring.cpp) | 中等 |
+| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/9PalindromeNumber.cpp) | 简单 |
 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/15ThreeSum.cpp) | 中等 |
 | 16 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/16Closest3Sum.cpp) | 中等 |
 | 18 | [四数之和](https://leetcode-cn.com/problems/4sum/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/18FourSum.cpp) | 中等 |

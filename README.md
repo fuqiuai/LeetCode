@@ -27,6 +27,7 @@ LeetCode Problems' Solutions with C++
 | 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/43MultiplyStrings.cpp) | 中等 |
 | 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/50Powxn.cpp) | 中等 |
 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/54SpiralMatrix.cpp) | 中等 |
+| 55 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/55JumpGame.cpp) | 中等 |
 | 59 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/59SpiralMatrix.cpp) | 中等 |
 | 66 | [加一](https://leetcode-cn.com/problems/plus-one/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/66PlusOne.cpp) | 简单 |
 | 67 | [二进制求和](https://leetcode-cn.com/problems/add-binary/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/67AddBinary.cpp) | 简单 |
@@ -37,7 +38,10 @@ LeetCode Problems' Solutions with C++
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/88MergeSortedArray.cpp) | 简单 |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/118PascalTriangle.cpp) | 简单 |
 | 119 | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/119PascalTriangle.cpp) | 简单 |
+| 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/121SellStock.cpp) | 简单 |
+| 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/122SellStock.cpp) | 简单 |
 | 125 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/125ValidPalindrome.cpp) | 简单 |
+| 134 | [加油站](https://leetcode-cn.com/problems/gas-station/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/134GasStation.cpp) | 中等 |
 | 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/153SearchMinRotatedArray.cpp) | 中等 |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/167TwoSum.cpp) | 简单 |
 | 169 | [求众数](https://leetcode-cn.com/problems/majority-element/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/169MajorityElement.cpp) | 简单 |
@@ -48,6 +52,9 @@ LeetCode Problems' Solutions with C++
 | 345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/345ReverseVowels.cpp) | 简单 |
 | 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/367ValidPerfectSquare.cpp) | 简单 |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/387FirstUniqueCharacter.cpp) | 简单 |
+| 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/392IsSubsequence.cpp) | 中等 |
+| 402 | [移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/402RemoveKDigits.cpp) | 中等 |
+| 406 | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/406QueueReconstruction.cpp) | 中等 |
 | 414 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/414ThirdLargestElement.cpp) | 简单 |
 | 415 | [字符串相加](https://leetcode-cn.com/problems/add-strings/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/415AddStrings.cpp) | 简单 |
 | 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/459RepeatedSubstringPattern.cpp) | 简单 |

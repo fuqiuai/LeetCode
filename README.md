@@ -41,7 +41,7 @@ LeetCode Problems' Solutions with C++
 | 80 | [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/80RemoveDuplicatesfromSorted.cpp) | 中等 |
 | 81 | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/81SearchRotatedArray.cpp) | 中等 |
 | 82 | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/82RemoveDuplicates.cpp) | 中等 |
-| 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/83RemoveDuplicates.cpp) | 中等 |
+| 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/83RemoveDuplicates.cpp) | 简单 |
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/88MergeSortedArray.cpp) | 简单 |
 | 92 | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/92ReverseLinkedList.cpp) | 中等 |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/118PascalTriangle.cpp) | 简单 |

@@ -32,12 +32,14 @@ LeetCode Problems' Solutions with C++
 | 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/50Powxn.cpp) | 中等 |
 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/54SpiralMatrix.cpp) | 中等 |
 | 55 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/55JumpGame.cpp) | 中等 |
+| 56 | [合并区间](https://leetcode-cn.com/problems/merge-intervals/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/56MergeIntervals.cpp) | 中等 |
 | 59 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/59SpiralMatrix.cpp) | 中等 |
 | 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/61RotateList.cpp) | 中等 |
 | 66 | [加一](https://leetcode-cn.com/problems/plus-one/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/66PlusOne.cpp) | 简单 |
 | 67 | [二进制求和](https://leetcode-cn.com/problems/add-binary/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/67AddBinary.cpp) | 简单 |
 | 69 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/69Sqrtx.cpp) | 简单 |
 | 71 | [简化路径](https://leetcode-cn.com/problems/simplify-path/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/71SimplifyPath.cpp) | 中等 |
+| 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/75SortColors.cpp) | 中等 |
 | 80 | [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/80RemoveDuplicatesfromSorted.cpp) | 中等 |
 | 81 | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/81SearchRotatedArray.cpp) | 中等 |
 | 82 | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/82RemoveDuplicates.cpp) | 中等 |
@@ -50,18 +52,27 @@ LeetCode Problems' Solutions with C++
 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/122SellStock.cpp) | 简单 |
 | 125 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/125ValidPalindrome.cpp) | 简单 |
 | 134 | [加油站](https://leetcode-cn.com/problems/gas-station/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/134GasStation.cpp) | 中等 |
+| 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/141LinkedListCycle.cpp) | 简单 |
+| 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/142LinkedListCycle.cpp) | 中等 |
+| 150 | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/150EvaluateReverse.cpp) | 中等 |
 | 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/153SearchMinRotatedArray.cpp) | 中等 |
+| 155 | [最小栈](https://leetcode-cn.com/problems/min-stack/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/155MinStack.cpp) | 简单 |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/167TwoSum.cpp) | 简单 |
 | 169 | [求众数](https://leetcode-cn.com/problems/majority-element/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/169MajorityElement.cpp) | 简单 |
 | 203 | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/203RemoveLinked.cpp) | 简单 |
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/206ReverseLinkedList.cpp) | 简单 |
 | 209 | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/209MinimumSize.cpp) | 中等 |
 | 215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/215KthLargestElement.cpp) | 中等 |
+| 225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/225ImplementStack.cpp) | 简单 |
 | 229 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/229MajorityElement.cpp) | 中等 |
+| 232 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/232ImplementQueue.cpp) | 简单 |
 | 234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/234PalindromeLinkedList.cpp) | 简单 |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/237DeleteNode.cpp) | 简单 |
+| 274 | [H指数](https://leetcode-cn.com/problems/h-index/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/274H-Index.cpp) | 中等 |
+| 275 | [H指数 II](https://leetcode-cn.com/problems/h-index-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/275H-Index.cpp) | 中等 |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/344ReverseString.cpp) | 简单 |
 | 345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/345ReverseVowels.cpp) | 简单 |
+| 347 | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/347TopKFrequent.cpp) | 中等 |
 | 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/367ValidPerfectSquare.cpp) | 简单 |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/387FirstUniqueCharacter.cpp) | 简单 |
 | 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/392IsSubsequence.cpp) | 中等 |

@@ -46,6 +46,16 @@ LeetCode Problems' Solutions with C++
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/83RemoveDuplicates.cpp) | 简单 |
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/88MergeSortedArray.cpp) | 简单 |
 | 92 | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/92ReverseLinkedList.cpp) | 中等 |
+| 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/94BinaryTree.cpp) | 中等 |
+| 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/100SameTree.cpp) | 简单 |
+| 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/101SymmetricTree.cpp) | 简单 |
+| 102 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/102BinaryTree.cpp) | 中等 |
+| 103 | [二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/103BinaryTree.cpp) | 中等 |
+| 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/104MaximumDepth.cpp) | 简单 |
+| 105 | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/105ConstructBinary.cpp) | 中等 |
+| 106 | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/106ConstructBinary.cpp) | 中等 |
+| 107 | [二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/107BinaryTree.cpp) | 简单 |
+| 111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/111MinimumDepth.cpp) | 简单 |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/118PascalTriangle.cpp) | 简单 |
 | 119 | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/119PascalTriangle.cpp) | 简单 |
 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/121SellStock.cpp) | 简单 |
@@ -54,6 +64,8 @@ LeetCode Problems' Solutions with C++
 | 134 | [加油站](https://leetcode-cn.com/problems/gas-station/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/134GasStation.cpp) | 中等 |
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/141LinkedListCycle.cpp) | 简单 |
 | 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/142LinkedListCycle.cpp) | 中等 |
+| 144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/144BinaryTree.cpp) | 中等 |
+| 145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/145BinaryTree.cpp) | 困难 |
 | 150 | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/150EvaluateReverse.cpp) | 中等 |
 | 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/153SearchMinRotatedArray.cpp) | 中等 |
 | 155 | [最小栈](https://leetcode-cn.com/problems/min-stack/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/155MinStack.cpp) | 简单 |
@@ -80,16 +92,23 @@ LeetCode Problems' Solutions with C++
 | 406 | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/406QueueReconstruction.cpp) | 中等 |
 | 414 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/414ThirdLargestElement.cpp) | 简单 |
 | 415 | [字符串相加](https://leetcode-cn.com/problems/add-strings/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/415AddStrings.cpp) | 简单 |
+| 429 | [N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/429N-aryTree.cpp) | 简单 |
 | 445 | [两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/445AddTwoNumbers.cpp) | 中等 |
 | 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/459RepeatedSubstringPattern.cpp) | 简单 |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/496NextGreaterElement.cpp) | 简单 |
 | 503 | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/503NextGreaterElementII.cpp) | 中等 |
 | 541 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/541ReverseString.cpp) | 简单 |
+| 543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/543DiameterofBinary.cpp) | 简单 |
 | 551 | [学生出勤纪录 I](https://leetcode-cn.com/problems/student-attendance-record-i/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/551StudentAttendanceRecord.cpp) | 简单 |
 | 556 | [下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/556NextGreaterElementIII.cpp) | 中等 |
 | 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/557ReverseWords.cpp) | 简单 |
+| 559 | [N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/559MaximumDepth.cpp) | 简单 |
+| 563 | [二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/563BinaryTreeTilt.cpp) | 简单 |
 | 567 | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/567PermutationinString.cpp) | 中等 |
+| 589 | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/589N-aryTree.cpp) | 简单 |
+| 590 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/590N-aryTree.cpp) | 简单 |
 | 633 | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/633SumofSquareNumbers.cpp) | 简单 |
+| 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/637AverageofLevels.cpp) | 简单 |
 | 680 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/680ValidPalindrome.cpp) | 简单 |
 | 686 | [重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/686RepeatedStringMatch.cpp) | 简单 |
 

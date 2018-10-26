@@ -6,6 +6,7 @@ LeetCode Problems' Solutions with C++
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/1TwoSum.cpp) | 简单 |
 | 2 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/2AddTwoNumbers.cpp) | 中等 |
 | 3 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/3LongestSubstring.cpp) | 中等 |
+| 5 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/5LongestPalindromic.cpp) | 中等 |
 | 6 | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/6ZigZagConversion.cpp) | 中等 |
 | 7 | [反转整数](https://leetcode-cn.com/problems/reverse-integer/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/7ReverseInteger.cpp) | 简单 |
 | 8 | [字符串转整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/8StringtoInteger.cpp) | 中等 |
@@ -16,10 +17,12 @@ LeetCode Problems' Solutions with C++
 | 14 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/14LongestCommonPrefix.cpp) | 简单 |
 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/15ThreeSum.cpp) | 中等 |
 | 16 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/16Closest3Sum.cpp) | 中等 |
+| 17 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/17LetterCombinations.cpp) | 中等 |
 | 18 | [四数之和](https://leetcode-cn.com/problems/4sum/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/18FourSum.cpp) | 中等 |
 | 19 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/19RemoveNth.cpp) | 中等 |
 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/20ValidParentheses.cpp) | 简单 |
 | 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/21MergeTwoSortedLists.cpp) | 简单 |
+| 22 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/22GenerateParentheses.cpp) | 中等 |
 | 24 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/24SwapNodesinPairs.cpp) | 中等 |
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/26RemoveDuplicates.cpp) | 简单 |
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/27RemoveElement.cpp) | 简单 |
@@ -27,8 +30,13 @@ LeetCode Problems' Solutions with C++
 | 29 | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/29DivideTwoIntegers.cpp) | 中等 |
 | 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/31NextPermutation.cpp) | 中等 |
 | 33 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/33SearchRotatedArray.cpp) | 中等 |
+| 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/34FindFirst.cpp) | 中等 |
 | 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/35SearchInsertPos.cpp) | 简单 |
+| 36 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/36ValidSudoku.cpp) | 中等 |
+| 38 | [报数](https://leetcode-cn.com/problems/multiply-strings/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/38CountandSay.cpp) | 简单 |
 | 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/43MultiplyStrings.cpp) | 中等 |
+| 46 | [全排列](https://leetcode-cn.com/problems/permutations/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/46Permutations.cpp) | 中等 |
+| 47 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/47Permutations.cpp) | 中等 |
 | 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/50Powxn.cpp) | 中等 |
 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/54SpiralMatrix.cpp) | 中等 |
 | 55 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/55JumpGame.cpp) | 中等 |
@@ -47,6 +55,7 @@ LeetCode Problems' Solutions with C++
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/88MergeSortedArray.cpp) | 简单 |
 | 92 | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/92ReverseLinkedList.cpp) | 中等 |
 | 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/94BinaryTree.cpp) | 中等 |
+| 98 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/98ValidateBinary.cpp) | 中等 |
 | 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/100SameTree.cpp) | 简单 |
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/101SymmetricTree.cpp) | 简单 |
 | 102 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/102BinaryTree.cpp) | 中等 |
@@ -82,6 +91,7 @@ LeetCode Problems' Solutions with C++
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/237DeleteNode.cpp) | 简单 |
 | 274 | [H指数](https://leetcode-cn.com/problems/h-index/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/274H-Index.cpp) | 中等 |
 | 275 | [H指数 II](https://leetcode-cn.com/problems/h-index-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/275H-Index.cpp) | 中等 |
+| 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/) | [C++](https://leetcode-cn.com/problems/first-bad-version/description/) | 简单 |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/344ReverseString.cpp) | 简单 |
 | 345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/345ReverseVowels.cpp) | 简单 |
 | 347 | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/347TopKFrequent.cpp) | 中等 |
@@ -97,6 +107,7 @@ LeetCode Problems' Solutions with C++
 | 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/459RepeatedSubstringPattern.cpp) | 简单 |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/496NextGreaterElement.cpp) | 简单 |
 | 503 | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/503NextGreaterElementII.cpp) | 中等 |
+| 516 | [最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/516LongestPalindromic.cpp) | 中等 |
 | 541 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/541ReverseString.cpp) | 简单 |
 | 543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/543DiameterofBinary.cpp) | 简单 |
 | 551 | [学生出勤纪录 I](https://leetcode-cn.com/problems/student-attendance-record-i/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/551StudentAttendanceRecord.cpp) | 简单 |
@@ -109,6 +120,7 @@ LeetCode Problems' Solutions with C++
 | 590 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/590N-aryTree.cpp) | 简单 |
 | 633 | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/633SumofSquareNumbers.cpp) | 简单 |
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/637AverageofLevels.cpp) | 简单 |
+| 647 | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/647PalindromicSubstrings.cpp) | 中等 |
 | 680 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/680ValidPalindrome.cpp) | 简单 |
 | 686 | [重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/686RepeatedStringMatch.cpp) | 简单 |
 

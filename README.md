@@ -37,11 +37,16 @@ LeetCode Problems' Solutions with C++
 | 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/43MultiplyStrings.cpp) | 中等 |
 | 46 | [全排列](https://leetcode-cn.com/problems/permutations/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/46Permutations.cpp) | 中等 |
 | 47 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/47Permutations.cpp) | 中等 |
+| 48 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/48RotateImage.cpp) | 中等 |
+| 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/49GroupAnagrams.cpp) | 中等 |
 | 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/50Powxn.cpp) | 中等 |
+| 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/53MaximumSubarray.cpp) | 简单 |
 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/54SpiralMatrix.cpp) | 中等 |
 | 55 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/55JumpGame.cpp) | 中等 |
 | 56 | [合并区间](https://leetcode-cn.com/problems/merge-intervals/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/56MergeIntervals.cpp) | 中等 |
+| 58 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/58LengthofLastWord.cpp) | 简单 |
 | 59 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/59SpiralMatrix.cpp) | 中等 |
+| 60 | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/60PermutationSequence.cpp) | 中等 |
 | 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/61RotateList.cpp) | 中等 |
 | 66 | [加一](https://leetcode-cn.com/problems/plus-one/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/66PlusOne.cpp) | 简单 |
 | 67 | [二进制求和](https://leetcode-cn.com/problems/add-binary/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/67AddBinary.cpp) | 简单 |
@@ -76,11 +81,13 @@ LeetCode Problems' Solutions with C++
 | 144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/144BinaryTree.cpp) | 中等 |
 | 145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/145BinaryTree.cpp) | 困难 |
 | 150 | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/150EvaluateReverse.cpp) | 中等 |
+| 151 | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/151ReverseWords.cpp) | 中等 |
 | 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/153SearchMinRotatedArray.cpp) | 中等 |
 | 155 | [最小栈](https://leetcode-cn.com/problems/min-stack/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/155MinStack.cpp) | 简单 |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/167TwoSum.cpp) | 简单 |
 | 169 | [求众数](https://leetcode-cn.com/problems/majority-element/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/169MajorityElement.cpp) | 简单 |
 | 203 | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/203RemoveLinked.cpp) | 简单 |
+| 204 | [计数质数](https://leetcode-cn.com/problems/count-primes/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/204CountPrimes.cpp) | 简单 |
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/206ReverseLinkedList.cpp) | 简单 |
 | 209 | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/209MinimumSize.cpp) | 中等 |
 | 215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/215KthLargestElement.cpp) | 中等 |
@@ -89,6 +96,9 @@ LeetCode Problems' Solutions with C++
 | 232 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/232ImplementQueue.cpp) | 简单 |
 | 234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/234PalindromeLinkedList.cpp) | 简单 |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/237DeleteNode.cpp) | 简单 |
+| 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/242ValidAnagram.cpp) | 简单 |
+| 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/263UglyNumber.cpp) | 简单 |
+| 264 | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/264UglyNumber.cpp) | 中等 |
 | 274 | [H指数](https://leetcode-cn.com/problems/h-index/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/274H-Index.cpp) | 中等 |
 | 275 | [H指数 II](https://leetcode-cn.com/problems/h-index-ii/description/) | [C++](https://github.com/fuqiuai/LeetCode/blob/master/algorithms/275H-Index.cpp) | 中等 |
 | 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/) | [C++](https://leetcode-cn.com/problems/first-bad-version/description/) | 简单 |
